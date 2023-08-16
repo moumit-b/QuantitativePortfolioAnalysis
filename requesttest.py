@@ -7,7 +7,7 @@ api_key = 'CBP69ER5QF1IGEW5'
 
 # Specify the API endpoint and parameters
 function = 'TIME_SERIES_DAILY'
-symbol = 'AAPL'
+symbol = 'AMZN'
 
 # Construct the API URL
 base_url = 'https://www.alphavantage.co/query'
