@@ -1,6 +1,8 @@
 import requests
 import json
 
+
+
 # Replace with your Alpha Vantage API key
 api_key = 'CBP69ER5QF1IGEW5'
 
